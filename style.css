@@ -1,0 +1,8 @@
+.bg-banner-info{
+    background-color: #fceae8;
+}
+
+.btn-color{
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
